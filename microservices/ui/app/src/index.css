@@ -1,5 +1,5 @@
 body {
-    background-image: url("robot.jpg");
-    background-repeat: no-repeat;
-    background-size: 1600px 800px;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
 }
